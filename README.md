@@ -22,4 +22,4 @@ Software Require
 2. Java Development Kit / Java Runtime Environment 1.8
 3. Mozilla Firefox version 49 with Java Plugin Support
 
-<img src="https://github.com/papamas/dms-kanreg-manado/blob/6.3.3/screenshoot/dashboard.png" />
+<img src="https://github.com/papamas/dms-kanreg-manado/screenshoot/dashboard.png" />
