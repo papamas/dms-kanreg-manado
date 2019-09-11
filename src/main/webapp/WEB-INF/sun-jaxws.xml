@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<endpoints version="2.0" xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime">
+  <endpoint implementation="com.openkm.ws.endpoint.TestService" name="OKMTest" url-pattern="/OKMTest"/>
+  <endpoint implementation="com.openkm.ws.endpoint.WorkflowService" name="OKMWorkflow" url-pattern="/OKMWorkflow"/>
+  <endpoint implementation="com.openkm.ws.endpoint.SearchService" name="OKMSearch" url-pattern="/OKMSearch"/>
+  <endpoint implementation="com.openkm.ws.endpoint.MailService" name="OKMMail" url-pattern="/OKMMail"/>
+  <endpoint implementation="com.openkm.ws.endpoint.NotificationService" name="OKMNotification" url-pattern="/OKMNotification"/>
+  <endpoint implementation="com.openkm.ws.endpoint.AuthService" name="OKMAuth" url-pattern="/OKMAuth"/>
+  <endpoint implementation="com.openkm.ws.endpoint.FolderService" name="OKMFolder" url-pattern="/OKMFolder"/>
+  <endpoint implementation="com.openkm.ws.endpoint.PropertyGroupService" name="OKMPropertyGroup" url-pattern="/OKMPropertyGroup"/>
+  <endpoint implementation="com.openkm.ws.endpoint.BookmarkService" name="OKMBookmark" url-pattern="/OKMBookmark"/>
+</endpoints>
