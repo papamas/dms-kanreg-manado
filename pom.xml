@@ -53,8 +53,11 @@
     <jcr.version>1.6.5</jcr.version>
     
     <!-- Using this Spring version -->
+    <dependabot/maven/spring.security.version-5.3.3.RELEASE
+    <spring.security.version>5.3.3.RELEASE</spring.security.version>
+
     <spring.version>5.2.7.RELEASE</spring.version>
-    <spring.security.version>4.2.0.RELEASE</spring.security.version>
+
     
     <!-- Apache CXF -->
     <cxf.version>3.1.8</cxf.version>
