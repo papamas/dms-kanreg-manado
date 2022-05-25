@@ -54,7 +54,7 @@
     
     <!-- Using this Spring version -->
     <dependabot/maven/spring.security.version-5.3.3.RELEASE
-    <spring.security.version>5.3.3.RELEASE</spring.security.version>
+    <spring.security.version>5.5.7</spring.security.version>
 
     <spring.version>5.2.7.RELEASE</spring.version>
 
